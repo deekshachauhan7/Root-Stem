@@ -1,0 +1,95 @@
+body
+{
+  background-color: #FAEBD7  ;
+  margin:0px;
+  padding:1px;
+
+}
+ /* -------------navbar -------------*/
+
+.mySlides
+{
+  margin-top: 0px;
+}
+
+.navbar
+{
+  overflow: hidden;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  opacity:0.9;
+  height:60px;
+
+
+}
+
+
+
+.navbar a
+{
+  float: left;
+  display: block;
+  color: #5F0038;
+  text-align: #B22222;
+  padding: 0px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+
+.navbar a:hover
+{
+  text-decoration:underline;
+  color:black;
+  
+}
+
+/* ------------slideshow -------------*/
+
+.centered1
+{
+  position: absolute;
+  font-style: oblique;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+  color: white;
+  font-family: 'Peaches&Cream';
+  font-size: 90;
+
+}
+
+/*---------------- contact us ------------- */
+table
+{
+  border-collapse: collapse;
+  width: 100%;
+  background-color:#FAEBD7  ;
+/* LemonChiffon */
+}
+tr
+{
+  height:50px;
+}
+td
+{
+  text-align: center;
+}
+#display
+{
+  font-style: oblique;
+  color:#5F0038;
+  font-family: 'Peaches&Cream';
+  font-size: 40px;
+}
+
+#display1
+{
+  font-style: oblique;
+  color:#5F0038;
+  font-family: 'Peaches&Cream';
+  font-size: 20;
+}
